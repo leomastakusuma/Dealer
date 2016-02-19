@@ -1,2 +1,1 @@
-# RESTful Applications with Zend Framework [Example]
-Application dealer
+Application Dealer built with Rest and Zend Framework 1
